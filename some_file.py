@@ -3,7 +3,7 @@ import time
 
 
 API_URL = 'https://api.telegram.org/bot'
-BOT_TOKEN = ''
+BOT_TOKEN = 'TOKEN'
 TEXT = 'Попизди мне тут!'
 MAX_COUNTER = 100
 
